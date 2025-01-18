@@ -1,11 +1,5 @@
 # Booking Application in Laravel
 
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=Cifa4LRrfqA&list=PL9TPlJ_mMj-RSrnWyTIk6C_J6kFV1MYDt" target="_blank">
-        <img src="https://img.youtube.com/vi/Cifa4LRrfqA/0.jpg" alt="Build Booking Application in Laravel latest version">
-    </a>
-</p>
-
 ## Overview
 
 This project is a Booking Application built using the latest version of Laravel. It provides a comprehensive solution for managing bookings with a user-friendly interface and robust backend.
