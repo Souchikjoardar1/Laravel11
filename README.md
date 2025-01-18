@@ -59,7 +59,7 @@ Follow these steps to set up the project on your local machine:
     php artisan key:generate
     ```
 
-6. **Set up database connection in [.env](http://_vscodecontentref_/1) file and migrate tables:**
+Create databse connection and migrate tables:
 
     ```sh
     php artisan migrate
@@ -69,17 +69,19 @@ Follow these steps to set up the project on your local machine:
 
     ```sh
     php artisan serve
-    ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
-## Contact
+That's it. If you have any questions, feel free to reach out through email: _hadiniazi801@gmail.com_
 
-If you have any questions, feel free to reach out:
 
-- **Email:** souchik123@gmail.com
+## Learn more about Laravel & Vuejs
 
-Thank you for visiting my profile. If you like the application, please hit the **star** button on this repository.
+Visit my youtube channel to build more awesome applications [Channel Link](https://www.youtube.com/@LaravelLover)
+
+### My Recent Laravel Courses
+
+- **[Create API in Laravel](https://www.youtube.com/watch?v=0h-unkoowZ4&list=PLDc9bt_00KcKrWYI1tULOFlYtnwnt8Hg-&pp=iAQB)**
+- **[Create Multi Language content in Laravel](https://www.youtube.com/watch?v=9oeksj5VfJk&list=PLDc9bt_00KcIXjG4TK7_p8NOAC0Ecq4Ec&pp=iAQB)**
+- **[Deploy Laravel App on Digital Ocean](https://www.youtube.com/watch?v=Maie8_TU-oM&list=PLDc9bt_00KcIvfcUjeoaZkzcXAJpYEQ0D&pp=iAQB)**
+
+Thank you for visiting my profile. If you like the application, please hit **star** button on this repository.
